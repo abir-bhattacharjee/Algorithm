@@ -10,7 +10,7 @@ void binarySearch(int arr[], int size, int item) {
 
         if (arr[mid] == item) {
             printf("Found\n");
-            return; // Exit the function once the item is found
+            return; 
         } else if (arr[mid] < item) {
             low = mid + 1;
         } else {

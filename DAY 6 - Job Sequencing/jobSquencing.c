@@ -61,7 +61,8 @@ int main(){
             }
         }
     }
-
+    
+    //for displaying sorted structure
     // for(int i=0; i<4;i++){
     //     printf("%d %d %d\n", a[i].id, a[i].deadline, a[i].profit);
     // }

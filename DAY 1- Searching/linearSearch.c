@@ -1,12 +1,12 @@
 #include<stdio.h>
 
 void linSearch(int arr[], int size, int item) {
-    int found = 0; // Variable to track whether the item is found or not
+    int found = 0; 
 
     for(int i = 0; i < size; i++) {
         if(item == arr[i]) {
             found = 1;
-            break; // Exit the loop once the item is found
+            break; 
         }
     }
 

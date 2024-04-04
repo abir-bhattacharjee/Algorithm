@@ -45,6 +45,7 @@ int main(){
     
     struct job a[4] = {{1, 2, 30},{2, 3, 20},{3, 2, 50},{4, 1, 25}};
     
+    //for user input
     // for(int i=0; i<4; i++){
     //     printf("enter id, deadline, profit for %d job :",i+1);
     //     scanf("%d%d%d",&a[i].id,&a[i].deadline,&a[i].profit);

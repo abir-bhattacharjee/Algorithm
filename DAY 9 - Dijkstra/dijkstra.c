@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main() {
+    // for user input
     // int matrix[50][50];
     // printf("Enter number of vertices in graph: ");
     // int n;
